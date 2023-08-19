@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on **Weather Broadcasting 1.0**
 
+- 👨‍💻 All of my projects are available at [https://vaibhavumbarkar.tech/](https://vaibhavumbarkar.tech/)
+
+- 📫 How to reach me **vaibhavumbarkar8485@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-umbarkar-80361a197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-umbarkar-80361a197" height="30" width="40" /></a>
