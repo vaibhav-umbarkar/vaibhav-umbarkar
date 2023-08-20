@@ -1,4 +1,34 @@
-<h1 align="left">Hey, I'm Vaibhav Umbarkar👋</h1>
+<div align="left">
+  <img height="200" src="https://scontent.fnag1-2.fna.fbcdn.net/v/t39.30808-6/368211507_755577716322638_1118255301181479459_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=hUWhMXQPzTcAX_OJF7Z&_nc_ht=scontent.fnag1-2.fna&oh=00_AfC4T5Xw33XF-dlyMX--UAEcKYzJARQiTmTPQmQWfDotoA&oe=64E61E27"  />
+</div>
+
+###
+
+<p align="left">Web and Softwear Devloper from India.<br><br>🤝 **Let's Collaborate**:<br>- I'm always open to collaboration and would love to connect with fellow developers, designers, and tech enthusiasts.<br>- If you have an exciting project in mind or just want to chat about tech, feel free to reach out!<br><br>🌟 **Passion Projects**:<br>-In my free time, I enjoy working on personal projects and learning new tech. <br>-I'm open to collaboration, so feel free to connect with me!<br><br>📫 Reach out on My Portfolio: www.vaibhavumbarkar.tech. Let's create cool things together! 🚀</p>
+
+###
+
+<p align="left">Language and Tools :</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
 
 ###
 
@@ -23,32 +53,10 @@
 
 ###
 
-<p align="left">Language and Tools :</p>
-
-###
+<br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="196" src="https://media1.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif?cid=ecf05e47ko1rb36iz1n2uv284umn8y7o0jqz5wwbl3uvfdcu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="150" src="https://media3.giphy.com/channel_assets/yeyoruiz/wnwJBP5LC34h.gif"  />
 </div>
 
 ###
