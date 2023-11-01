@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Web and Softwear Devloper from India.<br><br>Let's Collaborate:<br>- I'm always open to collaboration and would love to connect with fellow developers, designers, and tech enthusiasts.<br>- If you have an exciting project in mind or just want to chat about tech, feel free to reach out!<br><br>Passion Projects:<br>-In my free time, I enjoy working on personal projects and learning new tech. <br>-I'm open to collaboration, so feel free to connect with me!<br><br>📫 Reach out on My Portfolio: www.vaibhavumbarkar.tech. Let's create cool things together! 🚀</p>
+<p align="left">Web and Softwear Devloper from India.<br><br>Let's Collaborate:<br>- I'm always open to collaboration and would love to connect with fellow developers, designers, and tech enthusiasts.<br>- If you have an exciting project in mind or just want to chat about tech, feel free to reach out!<br><br>Passion Projects:<br>-In my free time, I enjoy working on personal projects and learning new tech. <br>-I'm open to collaboration, so feel free to connect with me!<br><br>Reach out on My Portfolio: www.vaibhavumbarkar.tech. Let's create cool things together! 🚀</p>
 
 ###
 
