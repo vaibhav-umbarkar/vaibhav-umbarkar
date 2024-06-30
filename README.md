@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img height="150" src="https://media3.giphy.com/channel_assets/yeyoruiz/wnwJBP5LC34h.gif"  />
 </div>
 
