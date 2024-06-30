@@ -1,10 +1,10 @@
-<h1 align="left">Hey there! 👋 I'm Vaibhav</h1>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav8485.vaibhav8485&"  />
 </div>
+
+###
+
+<h1 align="left">Hey there! 👋 I'm Vaibhav</h1>
 
 ###
 
