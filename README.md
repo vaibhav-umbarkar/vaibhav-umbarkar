@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav8485.vaibhav8485&"  />
 </div>
 
