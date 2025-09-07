@@ -10,17 +10,18 @@
   
 ### 👨‍💻 About Me
 
-I am an aspiring **DevOps Engineer** with a strong interest in **cloud infrastructure, automation, and system reliability**.  
-Although I don’t yet have formal industry experience, I have been actively building projects and learning modern DevOps tools and practices.  
+I am a **DevOps Engineer** with strong skills in **cloud infrastructure, automation, and system reliability**.  
+My strengths lie in building scalable environments, automating workflows, and ensuring secure and efficient deployments.  
 
-- ☁️ Familiar with **AWS** services for cloud solutions and deployments  
-- 🛠 Learning **Infrastructure as Code** with Terraform & Ansible  
-- 🔄 Practicing **CI/CD pipelines** using Jenkins & GitHub Actions  
-- 🐳 Hands-on with **containerization and orchestration** (Docker & Kubernetes)  
-- 📈 Exploring **monitoring and observability** using Prometheus & Grafana  
-- 🐧 Comfortable working with **Linux, Networking, Bash, and Python scripting**  
+- ☁️ Cloud: AWS  
+- 🛠 Infrastructure as Code: Terraform, Ansible  
+- 🔄 CI/CD: Jenkins, GitHub Actions  
+- 🐳 Containers & Orchestration: Docker, Kubernetes  
+- 📈 Monitoring & Observability: Prometheus, Grafana  
+- 🐧 Core Skills: Linux, Networking, Bash, Python  
 
-I am passionate about **automation and cloud-native technologies**, and I continuously work on personal projects to strengthen my skills. My goal is to collaborate, contribute to open-source, and grow into a professional DevOps role.
+I am passionate about **automation, scalability, and cloud-native technologies**, and I enjoy applying my skills to solve real-world challenges in DevOps.
+
 
 ---
 
