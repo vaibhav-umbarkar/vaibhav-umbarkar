@@ -10,18 +10,17 @@
   
 ### 👨‍💻 About Me
 
-I am a **DevOps Engineer** with a strong foundation in **networking, cloud infrastructure, and automation**.  
-My work revolves around designing scalable systems, building CI/CD pipelines, and ensuring high availability of applications.  
+I am an aspiring **DevOps Engineer** with a strong interest in **cloud infrastructure, automation, and system reliability**.  
+Although I don’t yet have formal industry experience, I have been actively building projects and learning modern DevOps tools and practices.  
 
-- ☁️ Experienced with **AWS** for cloud solutions and infrastructure management  
-- 🛠 Skilled in **Infrastructure as Code (Terraform, Ansible)**  
-- 🔄 Strong background in **CI/CD pipelines** using Jenkins & GitHub Actions  
-- 🐳 Proficient in **containerization and orchestration** with Docker & Kubernetes  
-- 📈 Focused on **monitoring, observability, and reliability** with Prometheus & Grafana  
-- 🐧 Comfortable working in **Linux environments** with **Bash & Python** scripting  
+- ☁️ Familiar with **AWS** services for cloud solutions and deployments  
+- 🛠 Learning **Infrastructure as Code** with Terraform & Ansible  
+- 🔄 Practicing **CI/CD pipelines** using Jenkins & GitHub Actions  
+- 🐳 Hands-on with **containerization and orchestration** (Docker & Kubernetes)  
+- 📈 Exploring **monitoring and observability** using Prometheus & Grafana  
+- 🐧 Comfortable working with **Linux, Networking, Bash, and Python scripting**  
 
-I am passionate about **automation, scalability, and cloud-native technologies**—constantly exploring ways to improve efficiency, reduce downtime, and deliver value through modern DevOps practices.
-
+I am passionate about **automation and cloud-native technologies**, and I continuously work on personal projects to strengthen my skills. My goal is to collaborate, contribute to open-source, and grow into a professional DevOps role.
 
 ---
 
