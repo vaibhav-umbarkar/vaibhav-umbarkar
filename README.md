@@ -1,72 +1,78 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav8485.vaibhav8485&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav8485.vaibhav8485&" />
 </div>
 
 ###
 
-<h1 align="left">Hey there! 👋 I'm Vaibhav</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=500&lines=Hey+there!+👋+I'm+Vaibhav;DevOps+Engineer+from+India;Automating+%26+Scaling+Infrastructure;Passionate+about+Cloud+%26+Networking)](https://git.io/typing-svg)
 
-###
+---
 
-<p align="left">Web and Softwear Devloper from India.<br><br>Let's Collaborate:<br>- I'm always open to collaboration and would love to connect with fellow developers, designers, and tech enthusiasts.<br>- If you have an exciting project in mind or just want to chat about tech, feel free to reach out!<br><br>Passion Projects:<br>-In my free time, I enjoy working on personal projects and learning new tech. <br>-I'm open to collaboration, so feel free to connect with me!<br><br>Reach out on My Portfolio: www.vaibhavumbarkar.tech. Let's create cool things together! 🚀</p>
+### 🚀 About Me
+- 🔧 **DevOps Engineer** passionate about automation, CI/CD, and cloud-native solutions.  
+- 🌐 Skilled in **Networking, Infrastructure as Code, and Monitoring**.  
+- 🐧 Daily driver: **Linux, Bash, and Python**.  
+- ☁️ Focused on **AWS, Terraform, Kubernetes, and Docker**.  
+- 📈 Believe in **scalability, automation, and observability**.  
 
-###
+---
 
-<p align="left">Language and Tools :</p>
+### 🛠️ DevOps Toolbox
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="40" alt="network logo" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav8485&show_icons=true&theme=tokyonight" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav8485&layout=compact&theme=tokyonight" height="160" alt="languages graph"/>
 </div>
 
-###
+---
 
-###
+### 📈 Contribution Graph
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav8485&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="left">Connect with me :</p>
+---
 
-###
-
+### 🌐 Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/vaibhav-umbarkar-80361a197" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo" />
   </a>
-  <a href="vaibhavumbarkar8485@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <a href="mailto:vaibhavumbarkar8485@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.vaibhavumbarkar.tech" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=121013&logoColor=white&labelColor=&style=flat" height="35" alt="portfolio logo" />
   </a>
 </div>
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/channel_assets/yeyoruiz/wnwJBP5LC34h.gif"  />
+  <img height="150" src="https://media3.giphy.com/channel_assets/yeyoruiz/wnwJBP5LC34h.gif" />
 </div>
-
-###
