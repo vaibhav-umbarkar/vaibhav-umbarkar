@@ -45,26 +45,17 @@
 
 ---
 
-### 📊 GitHub Metrics
-<div align="center">
+### 🧩 DevOps Skill Matrix
 
-<!-- Main GitHub stats (readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav8485&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vaibhav's GitHub stats" width="520"/>
-
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav8485&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="360"/>
-
-<!-- Profile trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhav8485&theme=onedark&no-frame=true&margin-w=10" alt="GitHub trophies" width="700"/>
-
-<!-- Small badges fallback (always fairly stable) -->
-<p>
-  <img src="https://img.shields.io/github/followers/vaibhav8485?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/vaibhav8485?label=Stars&style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/issues/vaibhav8485?label=Open%20issues&style=flat" alt="Open issues"/>
-</p>
-
-</div>
+| Category           | Tools & Technologies                                                                 |
+|--------------------|--------------------------------------------------------------------------------------|
+| **Cloud**          | AWS (EC2, S3, IAM, CloudWatch, VPC)                                                  |
+| **Infrastructure** | Terraform, Ansible                                                                   |
+| **CI/CD**          | Jenkins, GitHub Actions                                                              |
+| **Containers**     | Docker, Kubernetes                                                                   |
+| **Monitoring**     | Prometheus, Grafana                                                                  |
+| **Scripting**      | Bash, Python                                                                         |
+| **OS & Networking**| Linux, TCP/IP, Subnetting, Firewalls, Security Groups                                |
 
 
 ---
