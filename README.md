@@ -7,13 +7,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=500&lines=Hey+there!+👋+I'm+Vaibhav;DevOps+Engineer+from+India;Automating+%26+Scaling+Infrastructure;Passionate+about+Cloud+%26+Networking)](https://git.io/typing-svg)
 
 ---
+  
+### 👨‍💻 About Me
 
-### 🚀 About Me
-- 🔧 **DevOps Engineer** passionate about automation, CI/CD, and cloud-native solutions.  
-- 🌐 Skilled in **Networking, Infrastructure as Code, and Monitoring**.  
-- 🐧 Daily driver: **Linux, Bash, and Python**.  
-- ☁️ Focused on **AWS, Terraform, Kubernetes, and Docker**.  
-- 📈 Believe in **scalability, automation, and observability**.  
+I am a **DevOps Engineer** with a strong foundation in **networking, cloud infrastructure, and automation**.  
+My work revolves around designing scalable systems, building CI/CD pipelines, and ensuring high availability of applications.  
+
+- ☁️ Experienced with **AWS** for cloud solutions and infrastructure management  
+- 🛠 Skilled in **Infrastructure as Code (Terraform, Ansible)**  
+- 🔄 Strong background in **CI/CD pipelines** using Jenkins & GitHub Actions  
+- 🐳 Proficient in **containerization and orchestration** with Docker & Kubernetes  
+- 📈 Focused on **monitoring, observability, and reliability** with Prometheus & Grafana  
+- 🐧 Comfortable working in **Linux environments** with **Bash & Python** scripting  
+
+I am passionate about **automation, scalability, and cloud-native technologies**—constantly exploring ways to improve efficiency, reduce downtime, and deliver value through modern DevOps practices.
+
 
 ---
 
