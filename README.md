@@ -24,7 +24,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12"/>
@@ -40,21 +40,19 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="40" alt="network logo" />
+  <img src="https://skillicons.dev/icons?i=network" height="40" alt="networking logo" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 DevOps Focused Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav8485&show_icons=true&theme=tokyonight" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav8485&layout=compact&theme=tokyonight" height="160" alt="languages graph"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vaibhav8485&theme=tokyonight&hide_border=true&border_radius=10)  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhav8485&theme=onestar&no-frame=true&margin-w=10&margin-h=10)  
+
 </div>
-
----
-
-### 📈 Contribution Graph
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav8485&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
