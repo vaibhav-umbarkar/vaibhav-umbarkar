@@ -56,10 +56,11 @@ I am passionate about **automation, scalability, and cloud-native technologies**
 |--------------------|--------------------------------------------------------------------------------------|
 | **Cloud**          | AWS (EC2, S3, IAM, CloudWatch, VPC)                                                  |
 | **Infrastructure** | Terraform, Ansible                                                                   |
-| **CI/CD**          | Jenkins, GitHub Actions                                                              |
+| **CI/CD**          | Jenkins                                                                              |
 | **Containers**     | Docker, Kubernetes                                                                   |
 | **Monitoring**     | Prometheus, Grafana                                                                  |
 | **Scripting**      | Bash, Python                                                                         |
+| **Version Control & Collaboration**| Git & GitHub                                                         |
 | **OS & Networking**| Linux, TCP/IP, Subnetting, Firewalls, Security Groups                                |
 
 
