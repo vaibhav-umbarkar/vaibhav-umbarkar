@@ -12,7 +12,7 @@ My strengths lie in building scalable environments, automating workflows, and en
 
 - ☁️ Cloud: AWS  
 - 🛠 Infrastructure as Code: Terraform, Ansible  
-- 🔄 CI/CD: Jenkins, GitHub Actions  
+- 🔄 CI/CD: Jenkins  
 - 🐳 Containers & Orchestration: Docker, Kubernetes  
 - 📈 Monitoring & Observability: Prometheus, Grafana  
 - 🐧 Core Skills: Linux, Networking, Bash, Python  
@@ -61,7 +61,7 @@ I am passionate about **automation, scalability, and cloud-native technologies**
 | **Monitoring**     | Prometheus, Grafana                                                                  |
 | **Scripting**      | Bash, Python                                                                         |
 | **Version Control & Collaboration**| Git & GitHub                                                         |
-| **OS & Networking**| Linux, TCP/IP, Subnetting, Firewalls, Security Groups                                |
+| **OS & Networking**| Linux, VPC, Subnet, Security Groups                                                  |
 
 
 ---
