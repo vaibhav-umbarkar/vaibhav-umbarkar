@@ -39,22 +39,6 @@ Motivated DevOps Engineer with hands-on experience in cloud infrastructure, CI/C
 
 ---
 
-### 🧩 DevOps Skill Matrix
-
-| Category           | Tools & Technologies                                                                 |
-|--------------------|--------------------------------------------------------------------------------------|
-| **Cloud**          | AWS (EC2, S3, IAM, CloudWatch, VPC)                                                  |
-| **Infrastructure** | Terraform, Ansible                                                                   |
-| **CI/CD**          | Jenkins                                                                              |
-| **Containers**     | Docker, Kubernetes                                                                   |
-| **Monitoring**     | Prometheus, Grafana                                                                  |
-| **Scripting**      | Bash, Python                                                                         |
-| **Version Control & Collaboration**| Git & GitHub                                                         |
-| **OS & Networking**| Linux, VPC, Subnet, Security Groups                                                  |
-
-
----
-
 ### 🌐 Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/vaibhav-umbarkar-80361a197" target="_blank">
