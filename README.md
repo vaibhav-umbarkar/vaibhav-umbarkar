@@ -1,7 +1,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=#0000FF&width=500&lines=Hey+there!+👋+I'm+Vaibhav;DevOps+Engineer+from+India;Automating+%26+Scaling+Infrastructure;Passionate+about+Cloud+%26+Networking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&width=500&lines=Hey+there!+👋+I'm+Vaibhav;DevOps+Engineer+from+India;Automating+%26+Scaling+Infrastructure;Passionate+about+Cloud+%26+Networking)](https://git.io/typing-svg)
 
 ---
   
