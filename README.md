@@ -7,18 +7,7 @@
   
 ### 👨‍💻 About Me
 
-I am a **DevOps Engineer** with strong skills in **cloud infrastructure, automation, and system reliability**.  
-My strengths lie in building scalable environments, automating workflows, and ensuring secure and efficient deployments.  
-
-- ☁️ Cloud: AWS  
-- 🛠 Infrastructure as Code: Terraform, Ansible  
-- 🔄 CI/CD: Jenkins  
-- 🐳 Containers & Orchestration: Docker, Kubernetes  
-- 📈 Monitoring & Observability: Prometheus, Grafana  
-- 🐧 Core Skills: Linux, Networking, Bash, Python  
-
-I am passionate about **automation, scalability, and cloud-native technologies**, and I enjoy applying my skills to solve real-world challenges in DevOps.
-
+Motivated DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline development, and automation. Familiar with Linux, scripting, Git, AWS, Terraform, Ansible, Jenkins, Docker, Kubernetes, Prometheus, and Grafana. Passionate about building scalable and reliable systems while continuously improving deployment and monitoring processes
 
 ---
 
