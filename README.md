@@ -34,7 +34,8 @@ Motivated DevOps Engineer with hands-on experience in cloud infrastructure, CI/C
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=network" height="40" alt="networking logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/grafana-original.svg" height="40" alt="prometheus logo" />
+  <img width="12"/>
 </p>
 
 ---
