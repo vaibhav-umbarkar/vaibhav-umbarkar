@@ -7,7 +7,7 @@
   
 ### 👨‍💻 About Me
 
-Motivated DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline development, and automation. Familiar with Linux, scripting, Git, AWS, Terraform, Ansible, Jenkins, Docker, Kubernetes, Prometheus, and Grafana. Passionate about building scalable and reliable systems while continuously improving deployment and monitoring processes
+DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline development, and automation. Familiar with Linux, scripting, Git, AWS, Terraform, Ansible, Jenkins, Docker, Kubernetes, Prometheus, and Grafana. Passionate about building scalable and reliable systems while continuously improving deployment and monitoring processes
 
 ---
 
