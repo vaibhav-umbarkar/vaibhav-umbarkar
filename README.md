@@ -40,7 +40,7 @@ DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline
 
 ---
 
-## ☁️ AWS Badges & Credentials
+## ☁️ AWS Badges
 
 <p align="left">
   <a href="https://www.credly.com/badges/79e86d3c-cd8e-4d93-825e-46185bf72c32/public_url">
@@ -50,7 +50,7 @@ DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/vaibhav-umbarkar-80361a197" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo" />
