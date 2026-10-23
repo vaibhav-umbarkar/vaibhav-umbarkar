@@ -40,7 +40,7 @@ DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline
 
 ---
 
-## ☁️ AWS Badges
+### ☁️ AWS Badges
 
 <p align="left">
   <a href="https://www.credly.com/badges/79e86d3c-cd8e-4d93-825e-46185bf72c32/public_url">
