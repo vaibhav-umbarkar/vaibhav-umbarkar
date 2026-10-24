@@ -62,7 +62,7 @@ DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline
   <a href="mailto:vaibhavumbarkar8485@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.vaibhavumbarkar.tech" target="_blank">
+  <a href="https://vaibhav-umbarkar.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=121013&logoColor=white&labelColor=&style=flat" height="35" alt="portfolio logo" />
   </a>
 </div>
