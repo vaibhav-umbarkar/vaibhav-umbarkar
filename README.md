@@ -11,7 +11,7 @@ DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline
 
 ---
 
-### 🛠️ DevOps Skills
+### 🛠️ My DevOps Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
@@ -40,7 +40,7 @@ DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline
 
 ---
 
-### ☁️ Badges
+### ☁️ My Badges
 
 <p align="left">
   <a href="https://www.credly.com/badges/79e86d3c-cd8e-4d93-825e-46185bf72c32/public_url">
