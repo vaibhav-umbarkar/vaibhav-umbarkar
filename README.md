@@ -11,7 +11,7 @@ DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD pipeline
 
 ---
 
-### 🛠️ My DevOps Skills
+### 🛠️ My Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
